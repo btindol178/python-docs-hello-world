@@ -27,9 +27,9 @@ Steps to Deploy in Order!!!!!!!!!!!!!!!!!!
 - https://portal.azure.com/#create/hub
 - Open cloud shell create free storage
 - az login (then login at link with the code provided)
-- go to https://github.com/btindol178/python-docs-hello-world and click code then copy url
-- git clone https://github.com/btindol178/python-docs-hello-world.git
-- cd python-docs-hello-world/
+- go to https://github.com/btindol178/python-docs-hello-world_azure_deployment and click code then copy url
+- git clone https://github.com/btindol178/python-docs-hello-world_azure_deployment.git
+- cd python-docs-hello-world_azure_deployment/
 - az webapp up -n unizglobalznamzezforzappz ((# This is creating web app with unique global name for web app ))
 
 - When click on link in shell remove anything after .net
